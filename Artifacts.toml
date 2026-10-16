@@ -1,0 +1,192 @@
+[[H5ZbitgroomC]]
+arch = "aarch64"
+git-tree-sha1 = "37a3d1e4cb63daaebabe77cd91f74068bab76c5e"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[H5ZbitgroomC.download]]
+    sha256 = "be86cce99b0a4ffca571858d1d7f652cc9c2745cf028e9ce1f6cd2cbc3a7324c"
+    url = "https://github.com/JuliaBinaryWrappers/H5ZbitgroomC_jll.jl/releases/download/H5ZbitgroomC-v2.2.0+0/H5ZbitgroomC.v2.2.0.aarch64-apple-darwin-libgfortran5.tar.gz"
+[[H5ZbitgroomC]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1026e5370bebea8f9daaaaf6065096682596940c"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[H5ZbitgroomC.download]]
+    sha256 = "afd182fdd38d18502d56f73d4339fe85a22254c7c015ed6237cb8b1505b5ac7b"
+    url = "https://github.com/JuliaBinaryWrappers/H5ZbitgroomC_jll.jl/releases/download/H5ZbitgroomC-v2.2.0+0/H5ZbitgroomC.v2.2.0.aarch64-linux-gnu-libgfortran5-cxx11.tar.gz"
+[[H5ZbitgroomC]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "67b023eae8c2a6e39e2de96884708f060212b6ac"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[H5ZbitgroomC.download]]
+    sha256 = "94a83304140d3b08e862f43a46daa0ee30fc9219f0014855fdb2aba9f957f48e"
+    url = "https://github.com/JuliaBinaryWrappers/H5ZbitgroomC_jll.jl/releases/download/H5ZbitgroomC-v2.2.0+0/H5ZbitgroomC.v2.2.0.aarch64-linux-musl-libgfortran5-cxx11.tar.gz"
+[[H5ZbitgroomC]]
+arch = "aarch64"
+git-tree-sha1 = "43f3aa7e789804a3d60f39559ae13e0202735b74"
+libgfortran_version = "5.0.0"
+os = "freebsd"
+
+    [[H5ZbitgroomC.download]]
+    sha256 = "a978a3c98ec22ba2f1a9d9206c1fcfdded635151467e023892b021428c08a309"
+    url = "https://github.com/JuliaBinaryWrappers/H5ZbitgroomC_jll.jl/releases/download/H5ZbitgroomC-v2.2.0+0/H5ZbitgroomC.v2.2.0.aarch64-unknown-freebsd-libgfortran5.tar.gz"
+[[H5ZbitgroomC]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "34334ea518163600eeef13b01cfd0cd2d0e96de0"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[H5ZbitgroomC.download]]
+    sha256 = "cfa8fd00ee42b9bfdc2bb7ee11ffd1d0a43c28befc5b652f10b85f04adf380f2"
+    url = "https://github.com/JuliaBinaryWrappers/H5ZbitgroomC_jll.jl/releases/download/H5ZbitgroomC-v2.2.0+0/H5ZbitgroomC.v2.2.0.armv6l-linux-gnueabihf-libgfortran5-cxx11.tar.gz"
+[[H5ZbitgroomC]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f04b3abf89321f9eb056f6e43175d6d6d502180f"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[H5ZbitgroomC.download]]
+    sha256 = "92190eb7ee2f57337bc8b4b0fe22ab839275a1040e585d032f677e76a63dcf91"
+    url = "https://github.com/JuliaBinaryWrappers/H5ZbitgroomC_jll.jl/releases/download/H5ZbitgroomC-v2.2.0+0/H5ZbitgroomC.v2.2.0.armv6l-linux-musleabihf-libgfortran5-cxx11.tar.gz"
+[[H5ZbitgroomC]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "fb532e49eb4184a78fe38ac294e2aa42fa98d318"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[H5ZbitgroomC.download]]
+    sha256 = "26803aeb567cd4ab30497b89c8d7d7cfc8c0556bb4b7845c8677b76b80c8d87c"
+    url = "https://github.com/JuliaBinaryWrappers/H5ZbitgroomC_jll.jl/releases/download/H5ZbitgroomC-v2.2.0+0/H5ZbitgroomC.v2.2.0.armv7l-linux-gnueabihf-libgfortran5-cxx11.tar.gz"
+[[H5ZbitgroomC]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "326781134481b773527b2c55879f708b9ff030be"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[H5ZbitgroomC.download]]
+    sha256 = "b06d2350ded34276543e2e06c07e9bca6d4e6139a5fab954857c1729f2e229ca"
+    url = "https://github.com/JuliaBinaryWrappers/H5ZbitgroomC_jll.jl/releases/download/H5ZbitgroomC-v2.2.0+0/H5ZbitgroomC.v2.2.0.armv7l-linux-musleabihf-libgfortran5-cxx11.tar.gz"
+[[H5ZbitgroomC]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "57bf56f586c728777bc141d5977f973a2d0e3ae1"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[H5ZbitgroomC.download]]
+    sha256 = "50a1df328babe5cecc0f3da7b787b6c295793e533a0cb9d60782fe6a5f0ae449"
+    url = "https://github.com/JuliaBinaryWrappers/H5ZbitgroomC_jll.jl/releases/download/H5ZbitgroomC-v2.2.0+0/H5ZbitgroomC.v2.2.0.i686-linux-gnu-libgfortran5-cxx11.tar.gz"
+[[H5ZbitgroomC]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4b08eb9b2c977da390c943fe4853dbde3e97b4d5"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[H5ZbitgroomC.download]]
+    sha256 = "ba8c571b298aada50dd41676f1844512768b8b1d2988b7daa516dcc8df4d880e"
+    url = "https://github.com/JuliaBinaryWrappers/H5ZbitgroomC_jll.jl/releases/download/H5ZbitgroomC-v2.2.0+0/H5ZbitgroomC.v2.2.0.i686-linux-musl-libgfortran5-cxx11.tar.gz"
+[[H5ZbitgroomC]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ca830ccc0db7cbf5e83e15963a97252b50d60d0e"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[H5ZbitgroomC.download]]
+    sha256 = "05cc27e7738cce50bb653a8a10188345d8aebd0b6adbe7ead0fa8968ae5dcebe"
+    url = "https://github.com/JuliaBinaryWrappers/H5ZbitgroomC_jll.jl/releases/download/H5ZbitgroomC-v2.2.0+0/H5ZbitgroomC.v2.2.0.i686-w64-mingw32-libgfortran5-cxx11.tar.gz"
+[[H5ZbitgroomC]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0c6402f61df88ce96ecc85b1c65f2588b733213b"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[H5ZbitgroomC.download]]
+    sha256 = "6869fbcdba162f414c605530b95357ad7f974d058d497d7bad96a89c181c942f"
+    url = "https://github.com/JuliaBinaryWrappers/H5ZbitgroomC_jll.jl/releases/download/H5ZbitgroomC-v2.2.0+0/H5ZbitgroomC.v2.2.0.powerpc64le-linux-gnu-libgfortran5-cxx11.tar.gz"
+[[H5ZbitgroomC]]
+arch = "riscv64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "043df4351438c98ea520fd7db3ee62f7d5e2baf0"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[H5ZbitgroomC.download]]
+    sha256 = "57db63ff95089982a6cf51ef8ba72e1accc379f146b462afb33e1881c8d7a28a"
+    url = "https://github.com/JuliaBinaryWrappers/H5ZbitgroomC_jll.jl/releases/download/H5ZbitgroomC-v2.2.0+0/H5ZbitgroomC.v2.2.0.riscv64-linux-gnu-libgfortran5-cxx11.tar.gz"
+[[H5ZbitgroomC]]
+arch = "x86_64"
+git-tree-sha1 = "d3634ea36155708373ab9886451499a23dfcce7e"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[H5ZbitgroomC.download]]
+    sha256 = "48f1adbfd1fa23e7e94c7d761134846ba59bae724d274bd0907209966bf38590"
+    url = "https://github.com/JuliaBinaryWrappers/H5ZbitgroomC_jll.jl/releases/download/H5ZbitgroomC-v2.2.0+0/H5ZbitgroomC.v2.2.0.x86_64-apple-darwin-libgfortran5.tar.gz"
+[[H5ZbitgroomC]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "201d2bd608dcc75749c691ec998b9199ed17896d"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[H5ZbitgroomC.download]]
+    sha256 = "78356ee8d381c360563104cd1e0874fd9b866d8b4b984e8734ad6cfbe3d32192"
+    url = "https://github.com/JuliaBinaryWrappers/H5ZbitgroomC_jll.jl/releases/download/H5ZbitgroomC-v2.2.0+0/H5ZbitgroomC.v2.2.0.x86_64-linux-gnu-libgfortran5-cxx11.tar.gz"
+[[H5ZbitgroomC]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0532073b8213c2e985276d15a7a1396df8f0c189"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[H5ZbitgroomC.download]]
+    sha256 = "898fd87933f166c4ae8c323cf05a32217e1a0d18f0a3234e43e4188838461ff2"
+    url = "https://github.com/JuliaBinaryWrappers/H5ZbitgroomC_jll.jl/releases/download/H5ZbitgroomC-v2.2.0+0/H5ZbitgroomC.v2.2.0.x86_64-linux-musl-libgfortran5-cxx11.tar.gz"
+[[H5ZbitgroomC]]
+arch = "x86_64"
+git-tree-sha1 = "302b80bc75de0a6d36a3fcec18643983a973cb39"
+libgfortran_version = "5.0.0"
+os = "freebsd"
+
+    [[H5ZbitgroomC.download]]
+    sha256 = "b7022976d9b82a6a410c0a22a1275746d976ef2ea08004d8c6664202bd0445b1"
+    url = "https://github.com/JuliaBinaryWrappers/H5ZbitgroomC_jll.jl/releases/download/H5ZbitgroomC-v2.2.0+0/H5ZbitgroomC.v2.2.0.x86_64-unknown-freebsd-libgfortran5.tar.gz"
+[[H5ZbitgroomC]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0420008e06bdc3cd10ff91c77fecafb224af30b4"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[H5ZbitgroomC.download]]
+    sha256 = "3b17921a7ef5b6b3b9e5c2ef119da34ba0091e112a81dcd72e0f48396267cb75"
+    url = "https://github.com/JuliaBinaryWrappers/H5ZbitgroomC_jll.jl/releases/download/H5ZbitgroomC-v2.2.0+0/H5ZbitgroomC.v2.2.0.x86_64-w64-mingw32-libgfortran5-cxx11.tar.gz"
